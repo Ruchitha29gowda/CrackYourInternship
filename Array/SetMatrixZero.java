@@ -1,3 +1,4 @@
+package Array;
 class SetMatrixZero {
     public void setZeroes(int[][] matrix) {
         int[][] vis = new int[matrix.length][matrix[0].length];

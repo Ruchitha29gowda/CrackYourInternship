@@ -1,3 +1,4 @@
+package Array;
 class BestTimeToBuyAndSellStocks {
     public int maxProfit(int[] prices) {
         int finalAns = 0;

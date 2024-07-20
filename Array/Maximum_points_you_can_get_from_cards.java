@@ -1,3 +1,4 @@
+package Array;
 public class Maximum_points_you_can_get_from_cards {
     
 }

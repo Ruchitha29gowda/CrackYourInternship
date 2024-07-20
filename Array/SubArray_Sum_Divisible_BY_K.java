@@ -1,3 +1,4 @@
+package Array;
 import java.util.HashMap;
 
 public class SubArray_Sum_Divisible_BY_K {

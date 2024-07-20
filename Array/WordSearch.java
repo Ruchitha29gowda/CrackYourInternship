@@ -1,3 +1,4 @@
+package Array;
 class WordSearch {
     public boolean exist(char[][] board, String word) {
         boolean[][] vis = new boolean[board.length][board[0].length];

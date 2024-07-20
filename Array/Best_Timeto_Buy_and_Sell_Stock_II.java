@@ -1,3 +1,4 @@
+package Array;
 class Solution {
     public int maxProfit(int[] prices) {
         int max =0;
